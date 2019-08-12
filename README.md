@@ -1,4 +1,4 @@
-Koncepcja Warszawskich Ilustracji CC
+# Koncepcja Warszawskich Ilustracji CC
 
 * Kolekcja 20(?) ikon charakterystycznych miejsc Warszawy w spójnej stylistyce
 * Ikony wykonane z najwyższą dbałością, uniwersalne czasowo, 
