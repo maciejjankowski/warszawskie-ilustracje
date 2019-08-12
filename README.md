@@ -4,6 +4,11 @@
 * Ikony wykonane z najwyższą dbałością, uniwersalne czasowo, 
 * Ikony łatwe do zastosowania w wersji cz-b oraz kolorowej, na białym i czarnym tle
 * Priorytet to wersja full-color dla tła białego
+
+## Przykłady:
+* ...
+
+
 * Możliwe do darmowego wykorzystania na następujacych polach eksploatacji:
   * Produkcje niezależne, niekomercyjne
   * materiały drukowane (prasa, gazety ... i czasopisma, ulotki, broszury, plakaty, bannery, billboardy)
