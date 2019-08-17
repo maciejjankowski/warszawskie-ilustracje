@@ -8,6 +8,32 @@
 ## Przykłady:
 * ...
 
+## Lista wzorów 
+* Prochownia
+* pałac kultury 
+* Bulwary Wiślane
+* plac Wilsona 
+* kolumna Zygmunta
+* Wilanów 
+* chmielna 
+* pawixy
+* zbawix
+* łazienki 
+* pole mokotowskie 
+* złote tarasy i 
+* McDonald na świętokrzyskiej
+* Marriott 
+* Mazowiecka
+* pogłos
+* syreni śpiew 
+* uniwerek BUW 
+* Kopernik rzeźba 
+* syrenka 
+* MDM
+* plac trzech krzyży 
+* placyk przy placu 3+
+* cnk
+* 
 
 * Możliwe do darmowego wykorzystania na następujacych polach eksploatacji:
   * Produkcje niezależne, niekomercyjne
