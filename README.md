@@ -33,6 +33,26 @@
 * plac trzech krzyży 
 * placyk przy placu 3+
 * cnk
+* koneser na Pradze 
+* stadion 
+* francuska 
+* skaryszak 
+* wiatraczna 
+* stacje metra 
+* swps 
+* cerkiew 
+* zoo
+* katedra 
+* wileńska 
+* ząbkowska 
+* wschodni 
+* centralny 
+* blue city 
+* lasek kabacki 
+* Wilanowska 
+* Górka szczęśliwicka
+* lasek Bielański 
+* Chomiczówka
 * 
 
 * Możliwe do darmowego wykorzystania na następujacych polach eksploatacji:
