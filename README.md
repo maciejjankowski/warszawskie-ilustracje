@@ -53,7 +53,29 @@
 * Górka szczęśliwicka
 * lasek Bielański 
 * Chomiczówka
-* 
+* politechnika 
+* akademiki uniwerku 
+* hala Banacha 
+* koszyki 
+* hala Mirowska
+* hala gwardii 
+* rondo babka
+* Torwar
+* Stegny 
+* stadion legii 
+* stadion Polonii 
+* tor Służewiec 
+* zachodni 
+* rondo ONZ 
+* Jana Pawła galerie 
+* kino relax i Atlantic 
+* park saski
+* plac teatralny 
+* pomnik nieznanego żołnierza 
+* Gdański 
+* pl inwalidów 
+* plaża 
+*
 
 * Możliwe do darmowego wykorzystania na następujacych polach eksploatacji:
   * Produkcje niezależne, niekomercyjne
