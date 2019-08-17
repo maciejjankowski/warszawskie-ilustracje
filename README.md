@@ -75,7 +75,10 @@
 * Gdański 
 * pl inwalidów 
 * plaża 
-*
+* Powązki 
+* Femina 
+* bankowy 
+* 
 
 * Możliwe do darmowego wykorzystania na następujacych polach eksploatacji:
   * Produkcje niezależne, niekomercyjne
