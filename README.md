@@ -1,6 +1,6 @@
 # Koncepcja Warszawskich Ilustracji CC
 
-* Kolekcja 20(?) ikon charakterystycznych miejsc Warszawy w spójnej stylistyce
+* Kolekcja 70(?) ikon charakterystycznych miejsc Warszawy w spójnej stylistyce
 * Ikony wykonane z najwyższą dbałością, uniwersalne czasowo, 
 * Ikony łatwe do zastosowania w wersji cz-b oraz kolorowej, na białym i czarnym tle
 * Priorytet to wersja full-color dla tła białego
@@ -78,7 +78,12 @@
 * Powązki 
 * Femina 
 * bankowy 
-* 
+* zamek 
+* kolumna Zygmunta 
+* arkady 
+* gruba Kaśka
+* świątynia opatrzności bożej 
+
 
 * Możliwe do darmowego wykorzystania na następujacych polach eksploatacji:
   * Produkcje niezależne, niekomercyjne
