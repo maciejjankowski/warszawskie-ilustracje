@@ -2,8 +2,7 @@
 
 * Kolekcja 70(?) ikon charakterystycznych miejsc Warszawy w spójnej stylistyce
 * Ikony wykonane z najwyższą dbałością, uniwersalne czasowo, 
-* Ikony łatwe do zastosowania w wersji cz-b oraz kolorowej, na białym i czarnym tle
-* Priorytet to wersja full-color dla tła białego
+* ikony docelowo mają być uzywane w małym rozmiarze 1,5-2.5cm, więc muszą być czytelne
 
 ## Przykłady:
 * ...
