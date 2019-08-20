@@ -5,7 +5,8 @@
 * ikony docelowo mają być uzywane w małym rozmiarze 1,5-2.5cm, więc muszą być czytelne
 
 ## Przykłady:
-* ...
+* ![przykład 1](https://github.com/maciejjankowski/warszawskie-ilustracje/blob/master/BADC765D-B8EE-416F-A4D9-53CD07AEDD22.jpeg)
+
 
 ## Lista wzorów 
 * Prochownia
