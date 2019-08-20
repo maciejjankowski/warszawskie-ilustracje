@@ -7,7 +7,7 @@
 ## Przykłady:
 * ![przykład 1](https://github.com/maciejjankowski/warszawskie-ilustracje/blob/master/BADC765D-B8EE-416F-A4D9-53CD07AEDD22.jpeg)
 
-* ![przykład 2](https://github.com/maciejjankowski/warszawskie-ilustracje/blob/master/BADC765D-B8EE-416F-A4D9-53CD07AEDD22.jpeg)
+* ![przykład 2](https://github.com/maciejjankowski/warszawskie-ilustracje/blob/master/0895C777-555D-4357-BB30-2230BE385050.jpeg)
 
 ## Lista wzorów 
 * Prochownia
