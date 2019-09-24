@@ -1,5 +1,8 @@
 # Koncepcja Warszawskich Ilustracji CC
 
+* polska agencja turystyczna 
+* automaty vendingowe z butelkami, bilety do kina, etc.
+
 * Kolekcja 70(?) ikon charakterystycznych miejsc Warszawy w spójnej stylistyce
 * Ikony wykonane z najwyższą dbałością, uniwersalne czasowo, 
 * ikony docelowo mają być uzywane w małym rozmiarze 1,5-2.5cm, więc muszą być czytelne
